@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Transparent Screen</string>
+    <string name="_lease_open_permissions">Lease Open Permissions</string>
+    <string name="choose_wallpaper">Choose Wallpaper</string>
+    <string name="error_wallpaper_chooser">"Couldn't launch wallpaper chooser. "</string>
+    <string name="set_transparent_wallpaper">set transparent wallpaper</string>
+</resources>
